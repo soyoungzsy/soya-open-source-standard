@@ -26,3 +26,10 @@ Reviewed the public Chinese and English pages of v0.2.0 on 18 October 2026 as an
 The pages explain what the package does, how to copy a complete message into an ordinary AI chat, what to expect, possible costs and data handling. They explain common GitHub terms. The unclear first step found after v0.1.0 has been addressed and the changes were confirmed on the published v0.2.0 pages.
 
 The package format and internal links were checked; all 12 files in the fixed version matched the reviewed source. The written explanation and first-step instructions pass this AI review. Actual beginner use, full host installation and a complete AI-run publishing workflow remain unverified. This record was added after the release; the existing download is preserved.
+
+
+## 发布后的说明用语复查（2026-10-18）
+
+以不懂编程的首次读者视角复读中英文首页，发现可选安装与问题反馈中仍有未解释的术语。本次补充 AI 工具、访问凭证、自动检查和公开提问区的日常解释，并明确不会安装时可先复制完整指令。此次是 v0.2.0 发布后的主分支文档修订；原 v0.2.0 固定下载内容保持不变。已检查文字与文件链接；实际安装、完整自动发布和真实新手独立试用仍未验证。
+
+English: A newcomer review found unexplained terms in optional installation and support. The Chinese and English pages now explain them in everyday language and keep the no-install prompt first. This updates main documentation after v0.2.0; the fixed release download is unchanged. Text and file links were checked; actual installation, full automatic publishing and independent beginner testing remain unverified.
