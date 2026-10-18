@@ -33,3 +33,9 @@
 - 网络或权限导致无法查看公开内容时写“未完成”，不以本地阅读代替。
 
 在发布回执附简短结论：审阅身份及方式、实际版本、可否清楚理解/开始使用、发现的问题、已修订项、剩余疑问、是否通过。没有真实用户参与时明确这是 AI 第三方视角自检。
+
+## 新读者的引用检查
+
+我能否找到这个项目借鉴了谁？原作者、原项目/Skill链接、具体改动和许可是否清楚？“受启发”与“基于代码改造”是否一致？下载内容是否保留必要版权与NOTICE？来源或权限不明时，不能把本项标为通过。
+
+Can a newcomer find the original author, project/Skill, source URL, actual changes and applicable license? Are inspiration and code derivation distinguished correctly, and do downloads retain required notices? Unresolved provenance or permissions block this item.

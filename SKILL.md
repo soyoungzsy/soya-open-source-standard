@@ -1,6 +1,6 @@
 ---
 name: soya-open-source-standard
-description: 将 Soya 的个人方法、经验、Prompt、Skill 或工具整理为可公开使用的 GitHub 项目，并规范已有项目的 AI 修改、版本发布和发布验收。用于开源准备、开源发布、更新提报或开源规范检查。
+description: 将 Soya 的个人方法、经验、Prompt、Skill 或工具整理为可公开使用的 GitHub 项目，并规范已有项目的 AI 修改、版本发布和发布验收。用于开源准备、开源发布、更新提报、原作者引用与许可证核查或开源规范检查。
 ---
 
 # Soya 项目开源规范 / Soya Open Source Standard
@@ -10,7 +10,7 @@ Turn personal practices into understandable, usable, privacy-reviewed open-sourc
 
 ## 工作原则
 
-- 默认公开署名仅用 **Soya**；项目展示标题含 Soya，仓库建议 `soya-<plain-purpose>`。已有仓库不擅自重命名。
+- 本人默认公开署名用 **Soya**；必须保留原作者已经公开且许可要求保留的第三方署名，不用脱敏抹掉来源。项目展示标题含 Soya，仓库建议 `soya-<plain-purpose>`。已有仓库不擅自重命名。
 - 先交付最短可用路径，再按复杂度补充工程措施。纯 Prompt 不强加应用框架；本地工具不强加在线托管。
 - 用户明确要求发布到 GitHub 时沿用该项目公开授权，不反复确认；仅整理、评审或提 PR 不等于授权公开、合并。此 Skill 不会自行触发后台工作。
 - 不从私人记忆、其他对话、工作目录或企业账号采集故事和素材。仅使用本次明确提供且适合公开的输入。
@@ -37,7 +37,7 @@ Turn personal practices into understandable, usable, privacy-reviewed open-sourc
 
 ## 3. 建立公开边界
 
-发布任何内容前阅读 [references/privacy-and-safety.md](references/privacy-and-safety.md)。在本地隔离公开材料再上传；外部扫描器也是数据接收方。
+发布任何内容前阅读 [references/privacy-and-safety.md](references/privacy-and-safety.md) 和 [references/attribution-and-licenses.md](references/attribution-and-licenses.md)。核查基于、复制、改造、启发和依赖关系；中英首页必须提供真实来源与致谢入口，列原作者、项目/Skill链接、版本或提交、使用范围、本项目改动和许可证。保留必要版权、许可证全文与 NOTICE，实际分发包同样检查。来源或授权不清时阻止受影响内容发布，不能用“未发现”代替原创保证。在本地隔离公开材料再上传；外部扫描器也是数据接收方。
 
 检查全部公开表面：正文、代码、示例、文件名、图片和元数据、日志、Git 全历史、作者邮箱、分支/tag、PR、Issue、Release、构建产物与 CI。只扫描当前文件或设置 gitignore 不够。
 
