@@ -1,10 +1,20 @@
 # Soya Open Source Standard
 
+## Made for people who do not code
+
+This is a **Skill**, a package of instructions for an AI assistant. Give the assistant a personal method you may share; it follows the rules to explain the project, check privacy, prepare usable instructions and publish when authorized. Coding knowledge is not required for the first try.
+
+Start with “Try it without installation” below: open an AI chat, copy the complete message, add a small public-safe method and send it. Expect a project explanation, example, privacy checks and next steps. The assistant should ask when facts are missing. Your AI service may charge fees; do not enter company materials, passwords or private information.
+
+A **repository** is the project’s GitHub page. A **PR** is a proposed change awaiting review. A **Release** is a fixed version you can download. Installation is optional for the first try.
+
+
+
 **Help AI turn personal methods, experience and tools into understandable, usable, privacy-reviewed GitHub projects with verifiable releases.**
 
 让 AI 把个人方法整理成看得懂、用得上、经过脱敏检查且可维护的开源项目。
 
-[中文](README.md) · Version: 0.1.0 · Initial trial version; consult repository Releases for publication status.
+[中文](README.md) · Version: 0.2.0 · Initial trial version; consult repository Releases for publication status.
 
 ## Try it without installation
 
@@ -19,7 +29,7 @@ Apply Soya Open Source Standard to the method or project I provide.
 5. Include examples, licensing, versions, change history, troubleshooting and practical recovery steps.
 6. Use branches and reviewable PRs for later AI changes. A PR-only request does not authorize merging.
 7. When I explicitly request publication, complete a public repository, fixed tag, published Release and public-download verification. Creating a repository or pushing is insufficient.
-8. After every actual release, review the public content as a newcomer; record questions, fix blocking gaps and recheck before acceptance.
+8. Write all public instructions for people who do not code: explain the use and an example first, then where to act, what to click/type, what success looks like and what to do if it fails. Explain terms and put developer details later. After every actual release, review the public content as a newcomer; record questions, fix blocking gaps and recheck before acceptance.
 9. Stay within authorization. Never invent tests, installation commands, links or publication success. Report blockers and the smallest action needed.
 Input: [attach material you may publish]
 Goal: [prepare only / submit changes / publish on GitHub / deploy an online app]
@@ -39,7 +49,7 @@ It does not replace company approval, intellectual-property review or profession
 
 Input: “I use three questions to review my reading notes each week and want others to use the method.”
 
-Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.1.0 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
+Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.2.0 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
 
 This illustrates expected behavior; it is not an executed case study or testimonial.
 
@@ -53,7 +63,7 @@ Give the directory, or this repository link, to an assistant supporting Skill in
 Install soya-open-source-standard. Inspect its contents, verify this host's installation mechanism, back up any existing version, install the complete directory and verify discovery in a new session. Preserve my configuration and do not run unnecessary scripts.
 ```
 
-Offline alternative: after a formal release exists, download its fixed-version source archive, extract it and place the complete directory containing SKILL.md in the host's supported Skill location. Restart or open a new session. Plain chat clients may not support installation; use the lightweight prompt instead.
+Offline alternative: open the [version download page](https://github.com/soyoungzsy/soya-open-source-standard/releases), choose a version and click Source code (zip), extract it and place the complete directory containing SKILL.md in the host's supported Skill location. Restart or open a new session. Plain chat clients may not support installation; use the lightweight prompt instead.
 
 After installation:
 
@@ -67,7 +77,7 @@ Success means the assistant follows the seven-stage workflow and reports actual 
 
 The specification has no additional service fee. Bring your own AI host and GitHub account; models, scanners, CI or hosting may have separate charges. Work only on authorized projects. Do not provide work secrets, credentials or sensitive personal information. Host and third-party retention policies apply; zero retention is not guaranteed.
 
-No network/publishing scripts or automatic data collection are included. Only Skill structure and file references have been checked so far; host installation, real publication and end-to-end AI behavior remain unverified.
+No network/publishing scripts or automatic data collection are included. v0.1.0 was actually published and all 11 files matched the reviewed source. Reading its public Chinese and English pages showed that the nontechnical entry needed improvement; this version addresses that finding. Host installation and a complete AI-run workflow remain unverified.
 
 ## Update, uninstall and recover
 
