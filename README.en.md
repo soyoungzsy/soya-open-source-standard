@@ -14,7 +14,7 @@ A **repository** is the project’s GitHub page. A **PR** is a proposed change a
 
 让 AI 把个人方法整理成看得懂、用得上、经过脱敏检查且可维护的开源项目。
 
-[中文](README.md) · Version: 0.2.1 · Initial trial version; consult repository Releases for publication status.
+[中文](README.md) · Version: 0.3.0 · Initial trial version; consult repository Releases for publication status.
 
 ## Try it without installation
 
@@ -25,12 +25,13 @@ Apply Soya Open Source Standard to the method or project I provide.
 1. Include Soya in the title; explain the core function in one sentence in each language.
 2. Write complete Chinese and English introductions: background, scenarios, users, inputs/outputs, costs and limitations.
 3. Provide the shortest beginner path: a complete copyable prompt or verified installation and invocation steps.
-4. Use only Soya as the default public attribution. Exclude private identity, work details, internal data, links, code and credentials. Use synthetic examples. Renaming does not establish publication rights; exclude material with unclear ownership.
+4. Use Soya for the project author’s default public attribution while preserving required third-party public credits. Exclude private identity, work details, internal data, links, code and credentials. Use synthetic examples. Renaming does not establish publication rights; exclude material with unclear ownership.
 5. Include examples, licensing, versions, change history, troubleshooting and practical recovery steps.
 6. Use branches and reviewable PRs for later AI changes. A PR-only request does not authorize merging.
 7. When I explicitly request publication, complete a public repository, fixed tag, published Release and public-download verification. Creating a repository or pushing is insufficient.
 8. Write all public instructions for people who do not code: explain the use and an example first, then where to act, what to click/type, what success looks like and what to do if it fails. Explain terms and put developer details later. After every actual release, review the public content as a newcomer; record questions, fix blocking gaps and recheck before acceptance.
-9. Stay within authorization. Never invent tests, installation commands, links or publication success. Report blockers and the smallest action needed.
+9. Credit reused projects, code, assets, prompts and Skills with the original public author, source link, reused scope, your changes and license. Preserve required copyright and notices; distinguish derivatives from inspiration and resolve unknown sources before publishing.
+10. Stay within authorization. Never invent tests, installation commands, links or publication success. Report blockers and the smallest action needed.
 Input: [attach material you may publish]
 Goal: [prepare only / submit changes / publish on GitHub / deploy an online app]
 ```
@@ -49,7 +50,7 @@ It does not replace company approval, intellectual-property review or profession
 
 Input: “I use three questions to review my reading notes each week and want others to use the method.”
 
-Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.2.1 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
+Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.3.0 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
 
 This illustrates expected behavior; it is not an executed case study or testimonial.
 
@@ -95,3 +96,7 @@ If undiscoverable, check directory nesting, SKILL.md and AI tool support, then r
 
 Maintenance stage: initial trial awaiting real-project acceptance. Contributions may improve general rules, synthetic examples and reproducible reports; do not contribute internal materials, secrets or real-user data.
 
+
+## Original authors and sources
+
+When adapting another project or Skill, explain what its author contributed and what Soya changed. Keep required licenses and notices, including in downloads; the absence of a GitHub fork label does not remove this obligation. See the [source and license checklist](references/attribution-and-licenses.md) and [this specification’s source statement](SOURCES.md).

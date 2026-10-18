@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0 — 2026-10-18
+
+- 新增原作者、项目/Skill出处与许可证的必查要求；区分改造、复制、素材、启发和依赖。
+- 保留第三方公开版权署名、许可证和必要NOTICE；检查实际分发包；来源或许可不明时不得标记通过。
+- Add mandatory source attribution and license checks across documentation and distributed packages. Preserve public upstream credits; unknown provenance blocks affected publication.
+
 ## 0.2.1 — 2026-10-18
 
 - 用日常语言解释可选安装、访问凭证、自动检查和公开提问区；不会安装时可以先复制完整指令。

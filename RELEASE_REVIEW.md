@@ -1,3 +1,19 @@
+# Soya 规范修复与发布检查
+
+## 0.3.0 候选检查 · 2026-10-18
+
+新增引用、改造、复制、素材、启发与依赖的检查要求；原作者、公开出处、版本、范围、改动与许可证必须说明，实际分发包保留版权与NOTICE。
+
+实际执行：Skill格式和文件链接检查通过；本会话实际按规范执行项目修改和版本发布，自检结果单独记录，不冒充独立用户评审。
+
+中英入口按首次接触、不会编程的读者检查用途、第一步、具体输入、预期结果、费用、数据和退出/恢复。已核实的上游作者与许可证保留，不能将灵感说成代码改造。
+
+本节是发布前记录。实际公开、固定版本下载与文件核对必须在发布后追加，不能把本节当作已发布或全部验收证明。真实独立用户测试、跨AI工具的安装发现、真实付费服务联调未因本轮文字或离线测试自动通过；各项目不适用项按公开功能范围说明。全历史隐私的待处理事项另行记录，不作绝对安全保证。
+
+English: Candidate checks cover plain-language onboarding, actual applicable tests, sources and required notices. Publication, actual downloads and file equality must be verified afterward. AI self-review is not independent user testing; unexecuted installation and paid-service integration are not claimed. Historical privacy questions remain separate from current-file checks.
+
+## 以往记录（按当时状态保留）
+
 # Soya 发布后的新手视角自检
 
 检查日期：2026-10-18。检查对象：[v0.2.0](https://github.com/soyoungzsy/soya-open-source-standard/releases/tag/v0.2.0) 的公开中英介绍和说明文件。
