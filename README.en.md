@@ -53,17 +53,19 @@ Expected output: a Soya reading-review positioning statement, bilingual introduc
 
 This illustrates expected behavior; it is not an executed case study or testimonial.
 
-## Install the full Skill
+## Optional: install the full Skill
+
+You can skip this section and use the copyable message above. The details below are for people installing the complete instruction package or helping someone do so.
 
 Keep the entire directory: SKILL.md is the entry point, agents/openai.yaml supplies UI metadata, and references contains detailed guidance.
 
 Give the directory, or this repository link, to an assistant supporting Skill installation:
 
 ```text
-Install soya-open-source-standard. Inspect its contents, verify this host's installation mechanism, back up any existing version, install the complete directory and verify discovery in a new session. Preserve my configuration and do not run unnecessary scripts.
+Install soya-open-source-standard. Inspect its contents, verify this AI tool's installation mechanism, back up any existing version, install the complete directory and verify discovery in a new session. Preserve my configuration and do not run unnecessary scripts.
 ```
 
-Offline alternative: open the [version download page](https://github.com/soyoungzsy/soya-open-source-standard/releases), choose a version and click Source code (zip), extract it and place the complete directory containing SKILL.md in the host's supported Skill location. Restart or open a new session. Plain chat clients may not support installation; use the lightweight prompt instead.
+Offline alternative: open the [version download page](https://github.com/soyoungzsy/soya-open-source-standard/releases), choose a version and click Source code (zip), extract it and place the complete directory containing SKILL.md in the AI tool's supported Skill location. Restart or open a new session. Plain chat clients may not support installation; use the lightweight prompt instead.
 
 After installation:
 
@@ -75,20 +77,21 @@ Success means the assistant follows the seven-stage workflow and reports actual 
 
 ## Cost, data and limits
 
-The specification has no additional service fee. Bring your own AI host and GitHub account; models, scanners, CI or hosting may have separate charges. Work only on authorized projects. Do not provide work secrets, credentials or sensitive personal information. Host and third-party retention policies apply; zero retention is not guaranteed.
+The specification has no additional service fee. Bring your own AI tool and GitHub account; AI usage, automatic checks or website hosting may have separate charges. Work only on authorized projects. Do not provide work secrets, credentials or sensitive personal information. Your AI tool and third-party services apply their own data-retention policies; zero retention is not guaranteed.
 
-No network/publishing scripts or automatic data collection are included. v0.1.0 was actually published and all 11 files matched the reviewed source. Reading its public Chinese and English pages showed that the nontechnical entry needed improvement; this version addresses that finding. Host installation and a complete AI-run workflow remain unverified.
+No network/publishing scripts or automatic data collection are included. v0.1.0 was actually published and all 11 files matched the reviewed source. Reading its public Chinese and English pages showed that the nontechnical entry needed improvement; this version addresses that finding. Installation in an AI tool and a complete AI-run workflow remain unverified.
 
 ## Update, uninstall and recover
 
-Back up the old directory, select a fixed version and replace the complete directory while preserving host settings. Restore the backup and start a new session if it fails. To uninstall, remove only this Skill's directory, not projects or user data. Project code, deployment and data recovery require separate procedures described in the references.
+Back up the old directory, select a fixed version and replace the complete directory while preserving AI tool settings. Restore the backup and start a new session if it fails. To uninstall, remove only this Skill's directory, not projects or user data. Project code, deployment and data recovery require separate procedures described in the references.
 
 ## Troubleshooting and support
 
-If undiscoverable, check directory nesting, SKILL.md and host support, then reopen the session. For publishing failures, verify the target account, access and network; never paste tokens into chat. Report the version, host, reproduction steps and sanitized logs without private/work data. No dedicated support channel or response SLA is established yet; use repository Issues for ordinary sanitized reports; private vulnerability reporting remains unverified.
+If undiscoverable, check directory nesting, SKILL.md and AI tool support, then reopen the session. For publishing failures, verify the target account, access and network; never paste access credentials, which work like passwords, into chat. Report the version, AI tool, what you did and error messages with personal and work information removed. There is no dedicated support channel or promised response time yet. Use Issues (the public question area at the top of this project) for ordinary questions after removing personal and work information. A private way to report security problems has not been verified; do not publish secrets in Issues.
 
 ## Version and license
 
 [CHANGELOG](CHANGELOG.md) · [MIT License](LICENSE)
 
 Maintenance stage: initial trial awaiting real-project acceptance. Contributions may improve general rules, synthetic examples and reproducible reports; do not contribute internal materials, secrets or real-user data.
+
