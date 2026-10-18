@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.1 — 2026-10-18
+
+- 用日常语言解释可选安装、访问凭证、自动检查和公开提问区；不会安装时可以先复制完整指令。
+- 保留发布后首次读者复查记录，明确真实安装和完整自动执行仍未验证。
+- Explain optional installation, access credentials, automated checks and the public question area in plain language.
+- Preserve the no-install entry and post-publication review; actual installation and a full AI-run workflow remain unverified.
+
 ## 0.2.0 — 2026-10-18
 
 - 默认写给不会编程的人；先说用途和例子，再写点击/复制步骤、成功结果、失败处理、费用和数据去向。

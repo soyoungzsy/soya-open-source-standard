@@ -14,7 +14,7 @@ A **repository** is the project’s GitHub page. A **PR** is a proposed change a
 
 让 AI 把个人方法整理成看得懂、用得上、经过脱敏检查且可维护的开源项目。
 
-[中文](README.md) · Version: 0.2.0 · Initial trial version; consult repository Releases for publication status.
+[中文](README.md) · Version: 0.2.1 · Initial trial version; consult repository Releases for publication status.
 
 ## Try it without installation
 
@@ -49,7 +49,7 @@ It does not replace company approval, intellectual-property review or profession
 
 Input: “I use three questions to review my reading notes each week and want others to use the method.”
 
-Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.2.0 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
+Expected output: a Soya reading-review positioning statement, bilingual introductions, a copyable three-question prompt, synthetic input/output, boundaries, a 0.2.1 version and maintenance guidance. Actual publishing happens only when requested and authorized. Missing access must produce a blocker, not an invented link.
 
 This illustrates expected behavior; it is not an executed case study or testimonial.
 

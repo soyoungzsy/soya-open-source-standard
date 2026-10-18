@@ -14,7 +14,7 @@
 
 Turn personal methods and tools into understandable, usable, privacy-reviewed GitHub projects with verifiable releases.
 
-[English](README.en.md) · 当前版本：0.2.0 · 初始试用版；发行状态以仓库 Releases 为准
+[English](README.en.md) · 当前版本：0.2.1 · 初始试用版；发行状态以仓库 Releases 为准
 
 ## 先试一次：复制给 AI
 
@@ -49,7 +49,7 @@ Turn personal methods and tools into understandable, usable, privacy-reviewed Gi
 
 输入：“我每周用三个问题回顾阅读笔记，想让别人也能用。”
 
-输出应包含：Soya 阅读回顾项目定位、中英介绍、可复制的三问 Prompt、合成笔记与输出示例、适用边界、0.2.0 版本、维护说明。只有用户要求并具备发布权限时才实际发布；缺少权限时报告阻塞，不能输出虚构链接。
+输出应包含：Soya 阅读回顾项目定位、中英介绍、可复制的三问 Prompt、合成笔记与输出示例、适用边界、0.2.1 版本、维护说明。只有用户要求并具备发布权限时才实际发布；缺少权限时报告阻塞，不能输出虚构链接。
 
 这是预期结果示意，不是已运行的案例或用户证言。
 
