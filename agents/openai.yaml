@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soya 项目开源规范"
+  short_description: "将个人方法发布成清楚、可用、脱敏、可维护的 GitHub 项目"
+  default_prompt: "使用 $soya-open-source-standard，把当前项目整理并发布到 GitHub，完成中英介绍、新手使用、安全检查、版本与发布验证。"
